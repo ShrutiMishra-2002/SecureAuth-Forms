@@ -15,15 +15,14 @@
 4- The class newtest: it contains all methods used to perform test cases.
 5- After running the project successfully, an auto-generated report will be created containing the testing results. It can be found at:
     folder->test-output/index.html and test-output/emailable-report.html
-5- The test can be run only once successfully; to rerun it again, a change would be done, and emails used in all functions would be changed.
+6- The test can be run only once successfully; to rerun it again, a change would be done, and emails used in all functions would be changed.
 
 # Additional Project Files:
-Two Excel files containing:
-Test case reports for manual testing.
-Bug reports documenting manually detected defects.
-Automation test reports are included in two .html files:
-"index.html"
-"emailable-report.html"
+-Two Excel files containing Test case reports for manual testing.
+-Bug reports documenting manually detected defects. 
+-Automation test reports are included in two .html files:
+  "index.html"
+  "emailable-report.html"
 
 
   
